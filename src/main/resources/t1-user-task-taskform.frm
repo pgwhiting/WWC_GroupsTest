@@ -1,0 +1,1 @@
+{"id":"807452b5-96e4-452e-95f9-e48f2c6310ff","name":"t1-user-task-taskform.frm","model":{"taskName":"t1-user-task","processId":"src.GroupsTest","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
