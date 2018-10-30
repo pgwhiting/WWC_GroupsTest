@@ -1,0 +1,1 @@
+{"id":"50156afb-e4e3-47e8-962f-27a99e29fec0","name":"src.GroupsTest-taskform.frm","model":{"processName":"GroupsTest","processId":"src.GroupsTest","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.process.BusinessProcessFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
