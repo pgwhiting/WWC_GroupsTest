@@ -1,0 +1,1 @@
+{"id":"5b648fbd-9c35-4068-b0ae-12517fb232b0","name":"t2-group-task-taskform.frm","model":{"taskName":"t2-group-task","processId":"src.GroupsTest","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
